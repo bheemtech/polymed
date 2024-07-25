@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">316936023784</string>
+    <string name="google_api_key" translatable="false">AIzaSyCW0YJQYWqTZSQEYkLOK_gldDr5LJl-WWc</string>
+    <string name="google_app_id" translatable="false">1:316936023784:android:14baba6bdaf1acc38ee35d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCW0YJQYWqTZSQEYkLOK_gldDr5LJl-WWc</string>
+    <string name="google_storage_bucket" translatable="false">polymed-1abf1.appspot.com</string>
+    <string name="project_id" translatable="false">polymed-1abf1</string>
+</resources>
